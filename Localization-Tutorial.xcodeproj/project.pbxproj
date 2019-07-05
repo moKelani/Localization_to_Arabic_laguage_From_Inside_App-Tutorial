@@ -116,6 +116,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = DCF3520A21273942004BF4ED;
 			productRefGroup = DCF3521421273942004BF4ED /* Products */;
